@@ -1,0 +1,5 @@
+name: PopulaceJoin
+author: Turqmelon
+version: 1.0
+main: com.turqmelon.PopulaceJoin.PopulaceJoin
+description: Only sends join messages to users within the same town
